@@ -1,0 +1,12 @@
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\bin\Debug\net6.0\BankingApp.deps.json
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\bin\Debug\net6.0\BankingApp.dll
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\bin\Debug\net6.0\BankingApp.pdb
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\obj\Debug\net6.0\BankingApp.csproj.AssemblyReference.cache
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\obj\Debug\net6.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\obj\Debug\net6.0\BankingApp.AssemblyInfoInputs.cache
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\obj\Debug\net6.0\BankingApp.AssemblyInfo.cs
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\obj\Debug\net6.0\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\obj\Debug\net6.0\BankingApp.dll
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\obj\Debug\net6.0\refint\BankingApp.dll
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\obj\Debug\net6.0\BankingApp.pdb
+C:\Users\Cristi-PC\source\repos\BankingAccount\BankingAccount\obj\Debug\net6.0\ref\BankingApp.dll
